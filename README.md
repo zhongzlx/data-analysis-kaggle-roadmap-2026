@@ -1,5 +1,3 @@
-# data-analysis-kaggle-roadmap-2026
-data analyst 从Excel到Kaggle获奖的数据分析学习路线
 # 数据分析学习路线 · 从Excel到Kaggle获奖
 ## 项目说明
 本仓库记录从0基础到Kaggle获奖的完整学习过程，包含：
